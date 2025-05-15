@@ -2,7 +2,7 @@
 
 A simple checklist application built with F# and Avalonia UI for tracking trading setups.
 
-## Screenshot (click on image to to on YouTube for a video on usage)
+## Screenshot (click on image to go on YouTube for a video on usage)
 [![Trade Flow CheckList Application](Screenshot_v1.0.0.png)](https://youtu.be/OfC3C6JABtI "Trade Flow CheckList Application")
 
 ## Features
