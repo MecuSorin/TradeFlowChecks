@@ -7,6 +7,7 @@ A simple checklist application built with F# and Avalonia UI for tracking tradin
 ![Screenshot of CheckList Application](Screenshot_v1.0.0.png)
 
 ## YouTube description on how to use
+
 ![Trade Flow CheckList](https://youtu.be/OfC3C6JABtI)
 
 
