@@ -9,6 +9,7 @@ A simple checklist application built with F# and Avalonia UI for tracking tradin
 ## YouTube description on how to use
     ![Trade Flow CheckList](https://youtu.be/OfC3C6JABtI)
 
+
 ## Features
 
 *   Three-state checkboxes: Not Pressed, Validated, and Invalidated.
