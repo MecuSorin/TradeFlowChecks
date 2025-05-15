@@ -133,6 +133,7 @@ let view model dispatch =
             Button.create [
                 Button.dock Dock.Bottom
                 Button.content "Reset"
+                Button.fontSize 20
                 Button.onClick (fun _ -> dispatch Reset)
                 Button.horizontalAlignment HorizontalAlignment.Center
                 Button.margin (Thickness(0, 10))
